@@ -5,4 +5,5 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/pccxxxy/leetcode/tree/master/0176-second-highest-salary) |
+| [1811-fix-names-in-a-table](https://github.com/pccxxxy/leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
