@@ -6,6 +6,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/pccxxxy/leetcode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/pccxxxy/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/pccxxxy/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/pccxxxy/leetcode/tree/master/0626-exchange-seats) |
 | [1452-restaurant-growth](https://github.com/pccxxxy/leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/pccxxxy/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
